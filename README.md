@@ -13,7 +13,7 @@
 - ApacheJMeter
 
 ## How to run?
-### Execute the following commands:
+### Execute the following steps:
 - ``` git clone <repo_url> ```
 - ``` Open ApacheJMeter ```
 - ``` From ApacheJMeter open the JMX File ```
